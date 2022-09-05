@@ -1,0 +1,47 @@
+body {
+    font-family: 'Cabin Condensed', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange_colour {
+    color: darkorange;
+}
+
+p {
+    font-size: 20px;
+}
+
+section {
+    display: flex;
+
+}
+
+.half_width {
+    width: 50%;
+    padding-left: 3%;
+}
+
+.half_width img {
+    width: 77%;
+    padding-top: 5%;
+    padding-left: 5%;
+
+}
+
+.link_button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.top_banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
